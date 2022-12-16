@@ -1,8 +1,8 @@
 ## Hi, I'm Albert 🙂 
 
-Enthusiastic and open minded, hands-on engineering lead with experience in building software systems that work. I help teams to deliver solid software with emphasis on lean and incremental approach, pragmatic programming principles and value delivery without compromising on quality. Check out [my website](https://www.talk2duck.com) for more details.
+Enthusiastic and open-minded, hands-on engineering lead with experience in building software systems that work. I help teams to deliver solid software with emphasis on lean and incremental approach, pragmatic programming principles and value delivery without compromising on quality. Check out [my website](https://www.talk2duck.com) for more details.
 
-I have been recently passionate about mono-repositories and anything to improve developer experience. Co-founded [Monopolis](https://monopolis.cloud) – Internal Developer Portal SaaS, with a strong focus on automating best practices to improve Developer, Team and Organisational productivity. 
+I have been recently passionate about mono-repositories and anything to improve developer experience. Co-founded [Monopolis](https://monopolis.cloud) – Internal Developer Portal SaaS, with a strong focus on automating best practices to improve developer, team and organisational productivity. 
 
 
 Here are some stats on my GitHub career in the last **{{ ACCOUNT_AGE }}** years:
