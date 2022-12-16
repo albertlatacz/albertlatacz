@@ -1,8 +1,8 @@
 ## Hi, I'm Albert 🙂 
 
-Enthusiastic and open minded, hands-on engineering lead with experience in building software systems that work. I help teams to deliver solid software with emphasis on lean and incremental approach, pragmatic programming principles and value delivery without compromising on quality. Check out [my website](https://www.talk2duck.com) for more details.
+Enthusiastic and open-minded, hands-on engineering lead with experience in building software systems that work. I help teams to deliver solid software with emphasis on lean and incremental approach, pragmatic programming principles and value delivery without compromising on quality. Check out [my website](https://www.talk2duck.com) for more details.
 
-I have been recently passionate about mono-repositories and anything to improve developer experience. Co-founded [Monopolis](https://monopolis.cloud) – Internal Developer Portal SaaS, with a strong focus on automating best practices to improve Developer, Team and Organisational productivity. 
+I have been recently passionate about mono-repositories and anything to improve developer experience. Co-founded [Monopolis](https://monopolis.cloud) – Internal Developer Portal SaaS, with a strong focus on automating best practices to improve developer, team and organisational productivity. 
 
 
 Here are some stats on my GitHub career in the last **10** years:
@@ -16,7 +16,7 @@ Here are some stats on my GitHub career in the last **10** years:
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B12.9%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B16.7%25)
 
-- **5677** pushed commits.
+- **5689** pushed commits.
 - **1343** stars on my projects.
 - **13** submitted pull requests.
 - **23** issues opened.
