@@ -2,8 +2,7 @@
 
 Hands-on engineering lead with experience in building software systems that work. I help teams to deliver solid software with emphasis on lean and incremental approach, pragmatic programming principles and value delivery without compromising on quality. Check out [my website](https://www.albertlatacz.com) for more details.
 
-I have been recently passionate about mono-repositories and anything that improves developer experience. Co-founded [Monopolis](https://monopolis.cloud) – Internal Developer Portal SaaS, with a strong focus on automating best practices to improve developer, team and organisational productivity. 
-
+I have been recently passionate about improving the developer experience. Founded Buildnote ([https://buildnote.io](https://buildnote.io)) – CI/CD pipeline observability and monitoring platform that bridges the gap between basic pipeline monitoring and expensive enterprise solutions, providing comprehensive pre-production visibility without complexity or integration barriers. 
 
 Here are some stats on my GitHub career in the last **{{ ACCOUNT_AGE }}** years:
 
